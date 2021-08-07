@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello gitAllFix");
         int z = 4;
         System.out.println("hello github5");
+        System.out.println("push github5");
     }
 }
